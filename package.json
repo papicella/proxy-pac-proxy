@@ -20,7 +20,7 @@
     "inquirer": "~3.3.0",
     "ip": "~1.1.5",
     "lodash": "^4.17.11",
-    "pac-resolver": "~3.0.0",
+    "pac-resolver": "~7.0.1",
     "request": "^2.88.0",
     "yargs": "~9.0.1"
   },
